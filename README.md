@@ -1,5 +1,6 @@
 # Tarea-1
 OBJETIVOS
+
 Aprender a realizar correctamente la notación científica y poder diferenciarla de la notación de ingeniería
 Reconocer los prefijos utilizados en la ingeniería y realizar conversiones
 Reconocer las partes del átomo asi como su valencia
@@ -26,6 +27,7 @@ VIDEO
 https://youtu.be/oZfxma8pwS8
 
 CONCLUSIONES
+
 Al final de este trabajo logramos cumplir los objetivos mencionados anteriormente, de esta manera ayudandonos a comprender mucho mejor la materia y poder realizar los ejercicos más adelante
 En los siguientes capitulos utilizaremos la información aprendida en estás unidades
 
